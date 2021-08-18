@@ -1,0 +1,1 @@
+cmd_/home/zangetsu/Desktop/Linuxtutorial/linuxc/helloworkdriver/hellowork.ko := ld -r -m elf_x86_64 --build-id=sha1  -T arch/x86/module.lds -o /home/zangetsu/Desktop/Linuxtutorial/linuxc/helloworkdriver/hellowork.ko /home/zangetsu/Desktop/Linuxtutorial/linuxc/helloworkdriver/hellowork.o /home/zangetsu/Desktop/Linuxtutorial/linuxc/helloworkdriver/hellowork.mod.o;  true
