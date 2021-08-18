@@ -1,0 +1,1 @@
+cmd_/home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/Module.symvers := sed 's/ko$$/o/' /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/modules.order | scripts/mod/modpost -m    -o /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/Module.symvers -e -i Module.symvers   -T -

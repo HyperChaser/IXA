@@ -1,0 +1,1 @@
+cmd_/home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.mod := { echo  /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.o;  echo; } > /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.mod

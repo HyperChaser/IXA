@@ -1,0 +1,1 @@
+cmd_/home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.ko := ld -r -m elf_x86_64 --build-id=sha1  -T arch/x86/module.lds -o /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.ko /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.o /home/zangetsu/Desktop/Linuxtutorial/linuxc/onidriver/onidriver.mod.o;  true
